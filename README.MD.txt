@@ -13,3 +13,41 @@ Clients from different applications want to access your service for IPC.
 Your service wants to handle multithreading for IPC(any method defined in service can be executed simultaneously by more than one application).
 If you want to share data and control something in another application.
 You want to create some new functionalities and distribute them as a library.
+
+
+
+1. Overall IPC 
+
+2. Types of IPC 
+
+3. IPC in android 
+
+4. Intents and Content Providers
+
+5. Messeger 
+
+6. Binder 
+
+7. What is Binder?
+
+8. Why Binder?
+
+9. Binder Terminology
+
+10. Binder Communication and Discovery
+
+11. AIDL
+
+12. Binder object reference mapping across process boundaries
+
+13. Demo 
+
+- MusicPlayer App 
+- SmartCharging App 
+
+14. Rerference
+
+https://developer.android.com/guide
+https://medium.com/@budhdisharma/aidl-and-its-uses-in-android-e7a2520093e
+
+15. Q&A
